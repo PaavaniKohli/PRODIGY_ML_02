@@ -1,1 +1,1 @@
-# Prodidy infotech internship task 02 of ML
+# Prodidy Infotech Internship task 02 of ML
